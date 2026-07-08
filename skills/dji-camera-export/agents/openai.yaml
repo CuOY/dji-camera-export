@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: '相机媒体导出 (Camera Export)'
+  short_description: '从相机导出照片和视频，自动检测并转码高规格视频'
+  default_prompt: 'Use $dji-camera-export to export videos and photos from my camera'
